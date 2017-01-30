@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">"CardView "</string>
+
+    <string-array name="personName">
+        <item>sagar one</item>
+        <item>sagar two</item>
+        <item>sagar three</item>
+        <item>sagar four</item>
+        <item>sagar five</item>
+        <item>sagar six</item>
+        <item>sagar seveb</item>
+        <item>sagar eight</item>
+        <item>sagar nine</item>
+        <item>sagar ten</item>
+        <item>sagar eleven</item>
+        <item>sagar twelve</item>
+        <item>sagar thirteen</item>
+        <item>sagar fourteen</item>
+    </string-array>
+    <string-array name="personEmail">
+        <item>sagar48@gmail.com</item>
+        <item>sagar248@gmail.com</item>
+        <item>sagar348@gmail.com</item>
+        <item>sagar448@gmail.com</item>
+        <item>sagar548@gmail.com</item>
+        <item>sagar648@gmail.com</item>
+        <item>sagar748@gmail.com</item>
+        <item>sagar848@gmail.com</item>
+        <item>sagar948@gmail.com</item>
+        <item>sagar1048@gmail.com</item>
+        <item>sagar1148@gmail.com</item>
+        <item>sagar1248@gmail.com</item>
+        <item>sagar1348@gmail.com</item>
+        <item>sagar1448@gmail.com</item>
+    </string-array>
+    <string-array name="personPhone">
+        <item>01948172601</item>
+        <item>01948172602</item>
+        <item>01948172603</item>
+        <item>01948172604</item>
+        <item>01948172605</item>
+        <item>01948172606</item>
+        <item>01948172607</item>
+        <item>01948172608</item>
+        <item>01948172609</item>
+        <item>019481726010</item>
+        <item>019481726011</item>
+        <item>019481726012</item>
+        <item>019481726013</item>
+        <item>019481726014</item>
+    </string-array>
+</resources>
